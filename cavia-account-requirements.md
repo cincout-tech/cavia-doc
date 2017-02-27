@@ -68,6 +68,7 @@
 
 # 6 数据字典
 # 6.1 实体关系图
+![cavia-account-model](/images/model/cavia-account.png)
 # 6.2 实体定义
 
 # 7 业务规则与业务算法
